@@ -9,7 +9,7 @@ Text mining of scientific data at scale
 ## Main Steps
 1. Go to [Web of Science](http://www.webofknowledge.com/) and download 1000 TAK
   - clean up, e.g. eliminate non-English text, check which fields are more promising - full of NAs for kw 
-  - deal with [stopwords](https://pythonspot.com/nltk-stop-words/)
+  - deal with [stopwords](https://pythonspot.com/nltk-stop-words/) and be aware of dependencies: nltk, punkt
   - 
 2. Explore word embedding models in Python with gensim 
 3. Extract features produced through the word2vec model
