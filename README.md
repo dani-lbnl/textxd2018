@@ -7,7 +7,7 @@ Text mining of scientific data at scale
 3. Environment aspects of concrete production
 
 ## Main Steps
-1. Go to (Web of Science)[http://www.webofknowledge.com/] and download 1000 TAK
+1. Go to [Web of Science](http://www.webofknowledge.com/) and download 1000 TAK
 2. Explore word embedding models in Python with gensim 
 3. Extract features produced through the word2vec model
 4. Visualization the WEMs
