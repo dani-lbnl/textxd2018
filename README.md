@@ -27,10 +27,11 @@ Main Steps
 3.	Extract features produced through the word2vec model
 4.	Visualization the WEMs
 
-References
+Special thanks
 ----------
-
--	Thanks Caroline Le Pennec-Caldichoury, Geoff Bacon and Jaren Haber [course](http://www.textxd.org/programs/textxd2018/) materials.
+- Caroline Le Pennec-Caldichoury, Geoff Bacon and Jaren Haber [course](http://www.textxd.org/programs/textxd2018/) materials.
+- Aaron Culich for the binders, [jupyter access](https://jupyter.textxd.org/) and [etherpad](https://public.etherpad-mozilla.org/p/TextXD2018)
+- [TextXD2018](http://www.textxd.org/programs/textxd2018/) 
 
 Why concrete?
 -------------
