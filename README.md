@@ -1,7 +1,7 @@
 TextXD2018
 ==========
 
-Text mining of scientific data by Alex Nascimento and Dani Ushizima
+[Text mining](code/TextXD-Hackaton.ipynb) of scientific data in python by Dani Ushizima and Alex Nascimento
 
 Questions
 ---------
