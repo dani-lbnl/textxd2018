@@ -1,6 +1,6 @@
 TextXD2018
 ==========
-![Concrete](https://github.com/dani-lbnl/textxd2018/blob/master/data/TextXD_Concrete.png | width=100)
+![](https://github.com/dani-lbnl/textxd2018/blob/master/data/TextXD_Concrete.png | width=100)
 [Text mining](code/TextXD-Hackaton.ipynb) of scientific data in python by Dani Ushizima and Alex Nascimento
 
 Questions
