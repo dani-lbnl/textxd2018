@@ -1,6 +1,6 @@
 TextXD2018
 ==========
-
+![alt text](../data/TextXD_Concrete.png)
 [Text mining](code/TextXD-Hackaton.ipynb) of scientific data in python by Dani Ushizima and Alex Nascimento
 
 Questions
