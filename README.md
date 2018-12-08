@@ -1,6 +1,6 @@
 TextXD2018
 ==========
-<img src="https://github.com/dani-lbnl/textxd2018/blob/master/data/TextXD_Concrete.png" data-canonical-src="https://github.com/dani-lbnl/textxd2018/blob/master/data/TextXD_Concrete.png" width="100" height="100" />
+<img src="https://github.com/dani-lbnl/textxd2018/blob/master/data/TextXD_Concrete.png" data-canonical-src="https://github.com/dani-lbnl/textxd2018/blob/master/data/TextXD_Concrete.png" width="200" height="200" />
 
 [Text mining](code/TextXD-Hackaton.ipynb) of scientific data in python by Dani Ushizima and Alex Nascimento
 
