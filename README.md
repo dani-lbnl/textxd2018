@@ -2,7 +2,7 @@ TextXD2018
 ==========
 <img src="https://github.com/dani-lbnl/textxd2018/blob/master/data/TextXD_Concrete.png" data-canonical-src="https://github.com/dani-lbnl/textxd2018/blob/master/data/TextXD_Concrete.png" width="200" height="200" />
 
-[Text mining](code/TextXD-Hackaton.ipynb) of scientific data in python by Dani Ushizima and Alex Nascimento
+[Text mining](code/TextXD-Hackaton.ipynb) of scientific data in python by Dani Ushizima, Alicia Tsai and Alex Nascimento
 
 Questions
 ---------
@@ -30,7 +30,7 @@ Main Steps
 
 Special thanks
 ----------
-- Caroline Le Pennec-Caldichoury, Geoff Bacon and Jaren Haber [course](http://www.textxd.org/programs/textxd2018/) materials.
+- Caroline Le Pennec-Caldichoury, Geoff Bacon, Jaren Haber, Alina Arseniev-Koehler, Sarah Nelson [course](http://www.textxd.org/programs/textxd2018/) materials.
 - Aaron Culich for the binders, [jupyter access](https://jupyter.textxd.org/) and [etherpad](https://public.etherpad-mozilla.org/p/TextXD2018)
 - [TextXD2018](http://www.textxd.org/programs/textxd2018/) 
 
