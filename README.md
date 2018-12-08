@@ -17,7 +17,7 @@ Data
 1.	Go to Wikipedia for key words about subject, here **construction materials**
 2.	Query [Web of Science](http://www.webofknowledge.com/)
 	-	construction materials concrete
-	-	download 387 TAK
+	-	downloaded 2311 TAK
 
 Main Steps
 ----------
